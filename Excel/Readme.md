@@ -31,4 +31,4 @@ This project analyzes salary trends for data-related roles (e.g., Data Analyst, 
 
 
 ## Contact
-For questions or collaboration, reach out via faisalfahim072@gmail.com or <a href="www.youtube.com"[LinkedIn Profile]/a>.
+For questions or collaboration, reach out via faisalfahim072@gmail.com or LinkedIn: http://www.linkedin.com/in/faisalfahim 
