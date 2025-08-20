@@ -29,16 +29,6 @@ This project analyzes salary trends for data-related roles (e.g., Data Analyst, 
 - **Analytical**: Trend analysis, insight generation, attention to detail.
 - **Professional**: Problem-solving, communication of complex findings.
 
-## Usage
-To explore the analysis:
-1. Open `data/SalaryTrendAnalysis.xlsx` in Microsoft Excel.
-2. Review Power Query steps in the Excel file to understand data transformations.
-3. View `visuals/` for graphical representations (if included).
-
-## Future Improvements
-- Integrate Python or R for advanced statistical analysis.
-- Develop interactive dashboards using Power BI or Tableau.
-- Expand dataset to include additional variables (e.g., years of experience).
 
 ## Contact
-For questions or collaboration, reach out via [Your Email] or [LinkedIn Profile].
+For questions or collaboration, reach out via faisalfahim072@gmail.com or <a href="www.youtube.com"[LinkedIn Profile]/a>.
