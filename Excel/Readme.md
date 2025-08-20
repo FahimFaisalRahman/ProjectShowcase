@@ -18,11 +18,6 @@ This project analyzes salary trends for data-related roles (e.g., Data Analyst, 
 - Data Scientists command the highest salaries among roles ($147,874 avg. max).
 - Companies with 51-200 employees offer the highest average maximum salaries ($148,504).
 
-## Repository Contents
-- `data/SalaryTrendAnalysis.xlsx`: Raw and processed salary data.
-- `visuals/`: Charts visualizing salary trends by state and role (if applicable).
-- `docs/analysis_report.pdf`: Detailed methodology and findings (optional).
-- `scripts/`: Python/R scripts for data processing (if applicable).
 
 ## Skills Demonstrated
 - **Technical**: Power Query, Excel, data cleaning, data transformation, data analysis.
